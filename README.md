@@ -1,2 +1,2 @@
-# Arby
-Arbitrage Bot
+# Arbi
+Arbitrage Indicator Bot
